@@ -1,0 +1,24 @@
+{
+  "name": "order-summary-component-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "prettier --check *",
+    "lint:fix": "yarn lint --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antrenament/order-summary-component-main.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antrenament/order-summary-component-main/issues"
+  },
+  "homepage": "https://github.com/antrenament/order-summary-component-main#readme",
+  "devDependencies": {
+    "prettier": "2.3.2"
+  }
+}
